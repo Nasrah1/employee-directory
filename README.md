@@ -22,8 +22,8 @@
 - React
 - Express
 - Nodejs
-- 
-- 
+- HTML
+- CSS
 
 ## Demo
 ![Employee-Directory](public/assets/img/Employee-Directory.gif)
