@@ -27,6 +27,5 @@
 
 ## Demo
 
-Link:[Employee-Directory](https://intense-lowlands-57638.herokuapp.com/)
-https://arcane-temple-58442.herokuapp.com/
+Link:[Employee-Directory](https://arcane-temple-58442.herokuapp.com/)
 ![Employee-Directory](public/assets/img/Employee-Directory.gif)
